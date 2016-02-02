@@ -1,4 +1,4 @@
-Language Course
+Language
 =====
 
-BaseKit's Language Course Template
+BaseKit's Language Template
