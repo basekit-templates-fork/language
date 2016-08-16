@@ -1,7 +1,7 @@
 {
     "name":"Language Course",
     "thumbnail":"languagecourse.png",
-    "screenshot":"languagecourse.png",
+    "screenshot":"screenshot-language.jpg",
     "templateType":"standard",
     "pageTypes": ["home"],
     "tags": {
