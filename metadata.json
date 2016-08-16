@@ -1,7 +1,7 @@
 {
     "name":"Language",
     "thumbnail":"language.png",
-    "screenshot":"language-screenshot.png",
+    "screenshot":"language-screenshot.jpg",
     "templateType":"standard",
     "pageTypes": ["home"],
     "tags": {
